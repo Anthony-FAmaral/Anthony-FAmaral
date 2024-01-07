@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anthony-FAmaral
 - 🌱 Data Analyst
 - Cursando Analise e Desenvolvimento de Sintemas
-- 📫 anthonyamaral.analyst@hmail.com
+- 📫 anthonyamaral.analyst@gmail.com
 
 
