@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aperfeiçoando **Python e Machine Learning**
 
-- ⚡ Residente [Porto Digital]((https://www.linkedin.com/feed/update/urn:li:activity:7275236625582825472/))
+- ⚡ Residente [Porto Digital](https://www.linkedin.com/feed/update/urn:li:activity:7275236625582825472/)
 
 - 👨‍💻 [Visualisção de Dados](https://sites.google.com/view/portfolioanthonyamaral/in%C3%ADcio?authuser=1)
 
