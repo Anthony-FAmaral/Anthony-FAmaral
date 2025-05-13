@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anthony-analyst/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anthony-analyst/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Soluições, Ferramentas e Linguagem:</h3>
+<h3 align="left">Ferramentas e Linguagem:</h3>
 <p align="left"> 
 </a><a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> 
