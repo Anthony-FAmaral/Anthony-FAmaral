@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou Anthony Amaral</h1>
 <h3 align="center">Analista de Dados, mais de 1 ano de experiência no desenvolvimento de soluções orientadas à cultura data-driven. Atuando com dado estruturados, planilhas, automações e estática. Aplicando análises descritivas e preditivas para gerar insights valiosos e apoiar a tomada de decisão nos negócios.</h3>
 
-- 🔭 Sou analista de dados Junior **Dash4business**
+- 🔭 Analista de dados Junior **Dash4business**
 
 - 🌱 Atualmente estou aprendendo **Python e Machine Learning**
 
